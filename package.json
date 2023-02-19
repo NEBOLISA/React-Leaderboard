@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://{NEBOLISA}.github.io/{React-Leaderboard}",
+  "homepage": "http://NEBOLISA.github.io/React-Leaderboard",
   "eslintConfig": {
     "extends": [
       "react-app",
