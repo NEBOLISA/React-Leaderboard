@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%7BReact-Leaderboard%7D/static/css/main.db72a5c0.css",
-    "main.js": "/%7BReact-Leaderboard%7D/static/js/main.be153051.js",
-    "static/js/787.77081e05.chunk.js": "/%7BReact-Leaderboard%7D/static/js/787.77081e05.chunk.js",
-    "static/media/04.jpeg": "/%7BReact-Leaderboard%7D/static/media/04.9986c2dfd8d101721356.jpeg",
-    "static/media/01.jpeg": "/%7BReact-Leaderboard%7D/static/media/01.d7c223d72cbff26b4db3.jpeg",
-    "static/media/06.webp": "/%7BReact-Leaderboard%7D/static/media/06.91979a40953b4d110a9e.webp",
-    "static/media/07.webp": "/%7BReact-Leaderboard%7D/static/media/07.e898958749983b953da7.webp",
-    "static/media/02.webp": "/%7BReact-Leaderboard%7D/static/media/02.25aa7127430491e6fcec.webp",
-    "static/media/05.webp": "/%7BReact-Leaderboard%7D/static/media/05.ba89b5f0e294f2b1987e.webp",
-    "static/media/03.webp": "/%7BReact-Leaderboard%7D/static/media/03.dec6f3a48f34e37bd403.webp",
-    "index.html": "/%7BReact-Leaderboard%7D/index.html",
-    "main.db72a5c0.css.map": "/%7BReact-Leaderboard%7D/static/css/main.db72a5c0.css.map",
-    "main.be153051.js.map": "/%7BReact-Leaderboard%7D/static/js/main.be153051.js.map",
-    "787.77081e05.chunk.js.map": "/%7BReact-Leaderboard%7D/static/js/787.77081e05.chunk.js.map"
+    "main.css": "/React-Leaderboard/static/css/main.db72a5c0.css",
+    "main.js": "/React-Leaderboard/static/js/main.1b7e1cae.js",
+    "static/js/787.77081e05.chunk.js": "/React-Leaderboard/static/js/787.77081e05.chunk.js",
+    "static/media/04.jpeg": "/React-Leaderboard/static/media/04.9986c2dfd8d101721356.jpeg",
+    "static/media/01.jpeg": "/React-Leaderboard/static/media/01.d7c223d72cbff26b4db3.jpeg",
+    "static/media/06.webp": "/React-Leaderboard/static/media/06.91979a40953b4d110a9e.webp",
+    "static/media/07.webp": "/React-Leaderboard/static/media/07.e898958749983b953da7.webp",
+    "static/media/02.webp": "/React-Leaderboard/static/media/02.25aa7127430491e6fcec.webp",
+    "static/media/05.webp": "/React-Leaderboard/static/media/05.ba89b5f0e294f2b1987e.webp",
+    "static/media/03.webp": "/React-Leaderboard/static/media/03.dec6f3a48f34e37bd403.webp",
+    "index.html": "/React-Leaderboard/index.html",
+    "main.db72a5c0.css.map": "/React-Leaderboard/static/css/main.db72a5c0.css.map",
+    "main.1b7e1cae.js.map": "/React-Leaderboard/static/js/main.1b7e1cae.js.map",
+    "787.77081e05.chunk.js.map": "/React-Leaderboard/static/js/787.77081e05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db72a5c0.css",
-    "static/js/main.be153051.js"
+    "static/js/main.1b7e1cae.js"
   ]
 }
